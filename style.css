@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to top, rgba(221, 111, 22), rgba(111, 34, 56), pink);
+    overflow-x: hidden;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.registration-form {
+    width: 900px;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.submit-btn {
+    text-align: center;
+}
